@@ -543,6 +543,11 @@ body {
 }
 
 @media (max-width: 840px) {
+    .main-feed {
+        max-width: 100%;
+        width: 100%;
+    }
+
     .menu-sidebar {
         background-color: #f1f1f1;
         height: 100%;
